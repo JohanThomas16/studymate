@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "apt": [
+      "libjpeg-dev",
+      "zlib1g-dev"
+    ]
+  }
+}
