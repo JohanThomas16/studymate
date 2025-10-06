@@ -1,9 +1,8 @@
 {
+  "python": "3.11.12",
   "packages": {
-    "apt": [
-      "libjpeg-dev",
-      "zlib1g-dev"
-    ]
+    "apt": ["libjpeg-dev", "zlib1g-dev"]
   }
 }
+
 
